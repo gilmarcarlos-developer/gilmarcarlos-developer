@@ -2,7 +2,7 @@
 
 <div>
   <p>🏫 Atualmente sou estudante da Universidade Federal da UFABC e também desenvolvedor web fullstack em construção.</p>
-  <p>🌟 Meu atual repositório que estou trabalhando é sobre dev web fullstack, onde estou estudando diversas ferramentas e linguagens relacionadas. Você pode verificar <a href="https://github.com/gilmarcarlos-developer/projetos-de-estudos-frontend-2022"><b>aqui!</b></a></p>
+  <p>🌟 O atual repositório que estou trabalhando é sobre dev web fullstack, onde estou estudando diversas ferramentas e linguagens relacionadas. Você pode verificar <a href="https://github.com/gilmarcarlos-developer/projetos-de-estudos-frontend-2022"><b>aqui!</b></a></p>
 </div>
 
 <div style="display: inline-block;">
